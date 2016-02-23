@@ -1,6 +1,9 @@
 # Üzleti intelligencia Pandas+Jupyter labor
 
 Python alapok itt: https://github.com/juditacs/labor/blob/master/uzleti_intelligencia/Python_alapok.ipynb
+
+Pandas alapok itt: https://github.com/juditacs/labor/blob/master/uzleti_intelligencia/Pandas_alapok.ipynb
+
 Igyekszem folyamatosan bővíteni, érdemes feliratkozni az értesítésekre (Watch gomb).
 
 A labor előtt érdemes a Pandas alapjait átnézni, ehhez számos tutorial található az interneten.
