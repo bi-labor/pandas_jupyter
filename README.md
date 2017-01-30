@@ -1,13 +1,16 @@
 # Üzleti intelligencia Pandas+Jupyter labor
 
-Python alapok itt: https://github.com/juditacs/labor/blob/master/uzleti_intelligencia/Python_alapok.ipynb
+A labor célja betekintést nyújtani az adatbányászatban és adatelemzésben népszerű Pandas könyvtár használatába.
+A labor során egy Jupyter notebookot fogunk kitölteni.
+A Jupyter egy böngészőben futó alkalmazás, ami lehetővé teszi Python (illetve más nyelvek) kódrészletek, Markdown szövegek keverését, valamint többféle vizualizációs lehetőséget ad.
+Kiválóan integrálható a pandas könyvtárral és alapvetően együtt szokták használni a kettőt.
 
-Pandas alapok itt: https://github.com/juditacs/labor/blob/master/uzleti_intelligencia/Pandas_alapok.ipynb
+A labor anyaga [itt](https://github.com/bi-labor/pandas/blob/master/notebooks/BI_labor.ipynb) található.
 
-Igyekszem folyamatosan bővíteni, érdemes feliratkozni az értesítésekre (Watch gomb).
+A labor során alapvető Python ismeretekre lesz szükség, egy rövid bevezető [itt](https://github.com/bi-labor/pandas/blob/master/notebooks/Python_alapok.ipynb) található.
 
-A labor előtt érdemes a Pandas alapjait átnézni, ehhez számos tutorial található az interneten.
-Itt található egy rövid bevezető: http://pandas.pydata.org/pandas-docs/stable/10min.html
-
-Brandon Rhodes kiváló videója: https://www.youtube.com/watch?v=5JnMutdy6Fw
+A Pandas alapjait is érdemes a labor előtt átnézni, egy rövid bevezető [itt](https://github.com/bi-labor/pandas/blob/master/notebooks/Pandas_alapok.ipynb) található.
+További angol nyelvű segédanyagok:
+* egy 10 perces bevezető: http://pandas.pydata.org/pandas-docs/stable/10min.html
+* Brandon Rhodes kiváló videója: https://www.youtube.com/watch?v=5JnMutdy6Fw
 
