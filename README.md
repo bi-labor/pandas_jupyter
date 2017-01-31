@@ -5,7 +5,7 @@ A labor során egy Jupyter notebookot fogunk kitölteni.
 A Jupyter egy böngészőben futó alkalmazás, ami lehetővé teszi Python (illetve más nyelvek) kódrészletek, Markdown szövegek keverését, valamint többféle vizualizációs lehetőséget ad.
 Kiválóan integrálható a pandas könyvtárral és alapvetően együtt szokták használni a kettőt.
 
-A labor anyaga [itt](https://github.com/bi-labor/pandas/blob/master/notebooks/BI_labor.ipynb) található.
+A labor anyaga [itt](https://github.com/bi-labor/pandas/blob/master/notebooks/BI_pandas_labor.ipynb) található.
 
 A labor során alapvető Python ismeretekre lesz szükség, egy rövid bevezető [itt](https://github.com/bi-labor/pandas/blob/master/notebooks/Python_alapok.ipynb) található.
 
